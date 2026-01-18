@@ -1,0 +1,8 @@
+{
+  "name": "Copy of POS Business Tools - Growth Ecosystem",
+  "description": "A high-performance digital storefront for business productivity tools, featuring AI-powered tool recommendations and sleek neon-green aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
